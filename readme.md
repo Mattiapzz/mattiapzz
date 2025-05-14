@@ -17,11 +17,6 @@ I'm a passionate researcher, developer and mechatronics engineer, currently fini
 * **CARL8**: Sampling based motion planning with MonteCarlo Tree Search.
 * **MLT motorcyle**: Minimum Lap Time prediction toolbox for racing motorcycle (Optimal Control)
 
-## 📊 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Mattiapzz\&show_icons=true\&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mattiapzz\&layout=compact\&theme=radical)
-
 ## 💬 Let's Connect
 
 * [LinkedIn](https://www.linkedin.com/in/mattiapiazza/)
